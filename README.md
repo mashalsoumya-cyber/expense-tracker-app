@@ -201,18 +201,17 @@ Month 3: Income ₹50,000 | Expense ₹41,000 ✅
 
 ### Visualization Examples
 
-**Category-wise Bar Chart:**  
-https://github.com/mashalsoumya-cyber/expense-tracker-app/blob/main/images/expense_distribution.png
+### 📊 Category-wise Spending
+![Category Bar](https://raw.githubusercontent.com/mashalsoumya-cyber/expense-tracker-app/main/images/spending_by_category.png)
 
-**Expense Distribution Pie Chart:**  
-![Category Pie](outputs/02_category_pie.png)
+### 🥧 Expense Distribution
+![Category Pie](https://raw.githubusercontent.com/mashalsoumya-cyber/expense-tracker-app/main/images/expense_distribution.png)
 
-**Monthly Income vs Expense Trend:**  
-![Monthly Trend](outputs/03_monthly_trend.png)
+### 📈 Monthly Trend
+![Monthly Trend](https://raw.githubusercontent.com/mashalsoumya-cyber/expense-tracker-app/main/images/monthly_trend.png)
 
-**Transaction Count by Weekday:**  
-![Weekday Count](outputs/04_weekday_count.png)
-
+### 📅 Weekday Transactions
+![Weekday Count](https://raw.githubusercontent.com/mashalsoumya-cyber/expense-tracker-app/main/images/transactions_by_weekday.png)
 ---
 
 ## 🎓 Learning Outcomes
