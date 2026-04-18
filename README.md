@@ -240,29 +240,6 @@ By completing this project, you'll learn:
 
 ---
 
-## 💼 Interview Preparation
-
-### Common Interview Questions
-
-**Q: Explain your Expense Tracker project.**  
-A: I built a data-driven system that processes expense data, cleans it, analyzes patterns, and generates insights to help users understand their spending behavior.
-
-**Q: What problem does it solve?**  
-A: It helps individuals track expenses, identify overspending, and make informed budget decisions—similar to apps like Mint or CRED.
-
-**Q: What tools did you use?**  
-A: Python, Pandas (data manipulation), Matplotlib/Seaborn (visualization), and Streamlit (dashboard).
-
-**Q: What analysis did you perform?**  
-A: Category-wise spending analysis, monthly trends, overspending detection, payment method usage, and weekday patterns.
-
-**Q: What challenges did you face?**  
-A: Data quality issues (missing values, inconsistent categories), ensuring accurate aggregation, and choosing appropriate visualizations.
-
-**Q: How would you improve it?**  
-A: Add real-time bank API integration, implement budgeting alerts, use ML for spending predictions, and build a mobile app.
-
----
 
 ## 🔮 Future Enhancements
 
@@ -297,25 +274,4 @@ A: Add real-time bank API integration, implement budgeting alerts, use ML for sp
 
 ---
 
-## 📝 License
 
-This project is open source and available under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Your Name**  
-📧 Email: your.email@example.com  
-🔗 GitHub: [github.com/SoumyaMashal](https://github.com/SoumyaMashal)  
-💼 LinkedIn: [Your LinkedIn Profile]
-
----
-
-## ⭐ Show Your Support
-
-If this project helped you, please give it a **⭐ Star** on GitHub!
-
----
-
-**Made with ❤️ for data science enthusiasts and future data professionals**
