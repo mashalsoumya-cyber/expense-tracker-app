@@ -1,0 +1,87 @@
+Date,Category,Description,Amount,Payment Method,Type,Month,Month_Num,Day,Weekday,Year
+2024-01-01,Salary,Monthly Salary,55000,Net Banking,Income,January,1,1,Monday,2024
+2024-01-02,Food,Lunch,350,Upi,Expense,January,1,2,Tuesday,2024
+2024-01-03,Transport,Uber Ride,250,Card,Expense,January,1,3,Wednesday,2024
+2024-01-04,Food,Groceries,1200,Cash,Expense,January,1,4,Thursday,2024
+2024-01-05,Bills,Electricity Bill,1800,Net Banking,Expense,January,1,5,Friday,2024
+2024-01-06,Entertainment,Movie Tickets,600,Card,Expense,January,1,6,Saturday,2024
+2024-01-07,Health,Gym Membership,500,Card,Expense,January,1,7,Sunday,2024
+2024-01-08,Shopping,Clothes,2500,Card,Expense,January,1,8,Monday,2024
+2024-01-09,Food,Dinner,450,Upi,Expense,January,1,9,Tuesday,2024
+2024-01-10,Transport,Petrol,800,Card,Expense,January,1,10,Wednesday,2024
+2024-01-11,Bills,Internet Bill,800,Net Banking,Expense,January,1,11,Thursday,2024
+2024-01-12,Food,Coffee,150,Cash,Expense,January,1,12,Friday,2024
+2024-01-13,Entertainment,Gaming,800,Card,Expense,January,1,13,Saturday,2024
+2024-01-14,Health,Doctor Visit,2000,Cash,Expense,January,1,14,Sunday,2024
+2024-01-15,Rent,Monthly Rent,15000,Net Banking,Expense,January,1,15,Monday,2024
+2024-01-16,Food,Lunch Delivery,400,Upi,Expense,January,1,16,Tuesday,2024
+2024-01-17,Transport,Taxi,300,Upi,Expense,January,1,17,Wednesday,2024
+2024-01-18,Shopping,Books,1500,Card,Expense,January,1,18,Thursday,2024
+2024-01-19,Education,Course Fee,5000,Net Banking,Expense,January,1,19,Friday,2024
+2024-01-20,Food,Groceries,1500,Cash,Expense,January,1,20,Saturday,2024
+2024-01-21,Entertainment,Concert Ticket,2000,Card,Expense,January,1,21,Sunday,2024
+2024-01-22,Health,Medicine,800,Cash,Expense,January,1,22,Monday,2024
+2024-01-23,Bills,Water Bill,400,Net Banking,Expense,January,1,23,Tuesday,2024
+2024-01-24,Food,Restaurant,800,Card,Expense,January,1,24,Wednesday,2024
+2024-01-25,Transport,Metro Pass,500,Card,Expense,January,1,25,Thursday,2024
+2024-01-26,Shopping,Gadgets,4000,Card,Expense,January,1,26,Friday,2024
+2024-01-27,Food,Lunch,300,Upi,Expense,January,1,27,Saturday,2024
+2024-01-28,Entertainment,Streaming Subscription,499,Card,Expense,January,1,28,Sunday,2024
+2024-01-29,Health,Dental Cleaning,3000,Cash,Expense,January,1,29,Monday,2024
+2024-01-30,Food,Dinner,600,Upi,Expense,January,1,30,Tuesday,2024
+2024-02-01,Salary,Monthly Salary,55000,Net Banking,Income,February,2,1,Thursday,2024
+2024-02-02,Food,Breakfast,200,Cash,Expense,February,2,2,Friday,2024
+2024-02-03,Transport,Uber Pool,150,Upi,Expense,February,2,3,Saturday,2024
+2024-02-04,Bills,Electricity Bill,2000,Net Banking,Expense,February,2,4,Sunday,2024
+2024-02-05,Food,Groceries,1800,Cash,Expense,February,2,5,Monday,2024
+2024-02-06,Entertainment,Movie,500,Card,Expense,February,2,6,Tuesday,2024
+2024-02-07,Health,Gym,500,Card,Expense,February,2,7,Wednesday,2024
+2024-02-08,Shopping,Shoes,2000,Card,Expense,February,2,8,Thursday,2024
+2024-02-09,Food,Lunch,350,Upi,Expense,February,2,9,Friday,2024
+2024-02-10,Rent,Monthly Rent,15000,Net Banking,Expense,February,2,10,Saturday,2024
+2024-02-11,Transport,Petrol,1000,Card,Expense,February,2,11,Sunday,2024
+2024-02-12,Bills,Internet Bill,800,Net Banking,Expense,February,2,12,Monday,2024
+2024-02-13,Food,Coffee,120,Cash,Expense,February,2,13,Tuesday,2024
+2024-02-14,Entertainment,Date Night,1500,Card,Expense,February,2,14,Wednesday,2024
+2024-02-15,Health,Doctor Appointment,1500,Cash,Expense,February,2,15,Thursday,2024
+2024-02-16,Food,Dinner Delivery,600,Upi,Expense,February,2,16,Friday,2024
+2024-02-17,Shopping,Gifts,2500,Card,Expense,February,2,17,Saturday,2024
+2024-02-18,Education,Books,1200,Card,Expense,February,2,18,Sunday,2024
+2024-02-19,Transport,Taxi,400,Upi,Expense,February,2,19,Monday,2024
+2024-02-20,Food,Restaurant,1000,Card,Expense,February,2,20,Tuesday,2024
+2024-02-21,Entertainment,Gaming Purchase,1200,Card,Expense,February,2,21,Wednesday,2024
+2024-02-22,Health,Medicine,600,Cash,Expense,February,2,22,Thursday,2024
+2024-02-23,Bills,Mobile Bill,499,Card,Expense,February,2,23,Friday,2024
+2024-02-24,Food,Lunch,280,Upi,Expense,February,2,24,Saturday,2024
+2024-02-25,Transport,Auto Rickshaw,200,Cash,Expense,February,2,25,Sunday,2024
+2024-02-26,Shopping,Electronics,5000,Card,Expense,February,2,26,Monday,2024
+2024-02-27,Food,Groceries,1400,Cash,Expense,February,2,27,Tuesday,2024
+2024-02-28,Entertainment,Concert,2500,Card,Expense,February,2,28,Wednesday,2024
+2024-03-01,Salary,Monthly Salary,55000,Net Banking,Income,March,3,1,Friday,2024
+2024-03-02,Food,Lunch,320,Upi,Expense,March,3,2,Saturday,2024
+2024-03-03,Transport,Uber,280,Card,Expense,March,3,3,Sunday,2024
+2024-03-04,Bills,Electricity,1900,Net Banking,Expense,March,3,4,Monday,2024
+2024-03-05,Food,Groceries,1600,Cash,Expense,March,3,5,Tuesday,2024
+2024-03-06,Entertainment,Movies,800,Card,Expense,March,3,6,Wednesday,2024
+2024-03-07,Health,Yoga Class,400,Card,Expense,March,3,7,Thursday,2024
+2024-03-08,Shopping,Dress,1800,Card,Expense,March,3,8,Friday,2024
+2024-03-09,Food,Lunch Delivery,400,Upi,Expense,March,3,9,Saturday,2024
+2024-03-10,Rent,Monthly Rent,15000,Net Banking,Expense,March,3,10,Sunday,2024
+2024-03-11,Transport,Petrol,900,Card,Expense,March,3,11,Monday,2024
+2024-03-12,Bills,Internet,800,Net Banking,Expense,March,3,12,Tuesday,2024
+2024-03-13,Food,Coffee,130,Cash,Expense,March,3,13,Wednesday,2024
+2024-03-14,Entertainment,Gaming,700,Card,Expense,March,3,14,Thursday,2024
+2024-03-15,Health,Doctor,2500,Cash,Expense,March,3,15,Friday,2024
+2024-03-16,Food,Dinner,700,Upi,Expense,March,3,16,Saturday,2024
+2024-03-17,Shopping,Gadgets,3500,Card,Expense,March,3,17,Sunday,2024
+2024-03-18,Education,Course,4000,Net Banking,Expense,March,3,18,Monday,2024
+2024-03-19,Transport,Taxi,350,Upi,Expense,March,3,19,Tuesday,2024
+2024-03-20,Food,Restaurant,950,Card,Expense,March,3,20,Wednesday,2024
+2024-03-21,Entertainment,Streaming,499,Card,Expense,March,3,21,Thursday,2024
+2024-03-22,Health,Medicines,700,Cash,Expense,March,3,22,Friday,2024
+2024-03-23,Bills,Water,450,Net Banking,Expense,March,3,23,Saturday,2024
+2024-03-24,Food,Lunch,290,Upi,Expense,March,3,24,Sunday,2024
+2024-03-25,Transport,Metro,500,Card,Expense,March,3,25,Monday,2024
+2024-03-26,Shopping,Books,1200,Card,Expense,March,3,26,Tuesday,2024
+2024-03-27,Food,Groceries,1300,Cash,Expense,March,3,27,Wednesday,2024
+2024-03-28,Entertainment,Movie Night,600,Card,Expense,March,3,28,Thursday,2024

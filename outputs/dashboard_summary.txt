@@ -1,0 +1,11 @@
+EXPENSE TRACKER DASHBOARD SUMMARY
+==================================================
+Selected Categories: Bills, Education, Entertainment, Food, Health, Rent, Salary, Shopping, Transport
+Selected Transaction Type: All
+--------------------------------------------------
+Total Income  : ₹165,000.00
+Total Expense : ₹136,167.00
+Net Savings   : ₹28,833.00
+Savings Rate  : 17.47%
+--------------------------------------------------
+Total Filtered Records: 86
