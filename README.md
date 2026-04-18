@@ -202,7 +202,7 @@ Month 3: Income ₹50,000 | Expense ₹41,000 ✅
 ### Visualization Examples
 
 **Category-wise Bar Chart:**  
-![Category Total](outputs/01_category_total.png)
+https://github.com/mashalsoumya-cyber/expense-tracker-app/blob/main/images/expense_distribution.png
 
 **Expense Distribution Pie Chart:**  
 ![Category Pie](outputs/02_category_pie.png)
